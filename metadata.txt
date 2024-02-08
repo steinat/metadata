@@ -1,4 +1,4 @@
-
+{
   "name": "steinat",
   "website": "https://twitter.com/CryptoLios",
   "description": "i operate some node",
