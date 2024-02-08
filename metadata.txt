@@ -1,7 +1,7 @@
 {
   "name": "steinat",
-  "website": "https://twitter.com/CryptoLios",
-  "description": "i operate some node",
+  "website": "https://github.com/steinat",
+  "description": "steinat",
   "logo": "https://i.ibb.co/qd2c0J4/eigenlogo.png",
   "twitter": "https://twitter.com/CryptoLios"
 }
